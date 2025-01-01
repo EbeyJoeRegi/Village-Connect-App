@@ -46,7 +46,7 @@ to suggestions, and manage other admins.
    Clone the forked repository to your local machine:
 
    ```bash
-   https://github.com/EbeyJoeRegi/Village-Connect-App.git
+   git clone https://github.com/EbeyJoeRegi/Village-Connect-App.git
     ```
 3. **Navigate to the project directory**
 
